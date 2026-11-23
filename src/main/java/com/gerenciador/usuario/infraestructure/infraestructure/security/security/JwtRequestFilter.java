@@ -1,4 +1,4 @@
-package com.gerenciador.usuario.infraestructure.security;
+package com.example.demo.infraestructure.security.security;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

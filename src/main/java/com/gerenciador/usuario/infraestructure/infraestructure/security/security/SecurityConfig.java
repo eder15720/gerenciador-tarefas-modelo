@@ -1,4 +1,4 @@
-package com.gerenciador.usuario.infraestructure.security;
+package com.example.demo.infraestructure.security.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,4 @@
-package com.gerenciador.usuario.infraestructure.security;
+package com.example.demo.infraestructure.security.security;
 
 import com.example.demo.infraestructure.entity.Usuario;
 import com.example.demo.infraestructure.repository.UsuarioRepository;
